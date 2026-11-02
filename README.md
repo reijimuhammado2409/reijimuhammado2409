@@ -72,3 +72,9 @@
 
 Terbuka untuk peluang magang, kerja, kolaborasi, atau sekadar diskusi soal pengembangan web dan mobile.
 Hubungi saya lewat [LinkedIn](https://www.linkedin.com/in/muhammad-fachri-fahrezy) atau [email](mailto:muhammado2409@gmail.com).
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reijimuhammado2409/reijimuhammado2409/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reijimuhammado2409/reijimuhammado2409/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/reijimuhammado2409/reijimuhammado2409/output/github-snake.svg" />
+</picture>
