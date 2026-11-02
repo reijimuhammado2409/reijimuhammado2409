@@ -25,8 +25,6 @@
 
 ## 🛠️ Tech Stack
 
-> Hapus badge yang belum lu kuasai. Daftar pendek yang jujur lebih meyakinkan.
-
 **Web (Frontend)**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
